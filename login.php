@@ -19,9 +19,9 @@
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="password" required>
-    <label>
+    <!-- <label>
       <input type="checkbox" checked="checked" name="remember"> Remember me
-    </label>
+    </label> -->
     <button type="submit">Login</button>
     
   </div>
