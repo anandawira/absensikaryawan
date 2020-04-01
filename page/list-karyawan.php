@@ -8,6 +8,6 @@
     <link rel="stylesheet" href="./asset/style/list-karyawan.css">
 </head>
 <body>
-    <h1>LIST KARYAWAN</h1>
+    <h1 style="text-align: center;">LIST KARYAWAN</h1>
 </body>
 </html>

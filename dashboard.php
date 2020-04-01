@@ -21,13 +21,12 @@
     <header>
         <nav>
             <div id="logo">
-                <img src="./asset/picture/logo.png" alt="Logo">
+                <i class="fas fa-fingerprint"></i>
                 <h1>Absensi Online<br>Karyawan</h1>
             </div>
         
-            <div class="sign-out">
-                <p>Sign Out</p>
-                <i class="fas fa-sign-out-alt"></i>
+            <div id="sign-out">
+                <a href="logout.php"><i class="fas fa-sign-out-alt"></i></a> 
             </div>
 
         </nav>
